@@ -1,0 +1,50 @@
+[
+       {
+          "id":"c9d31bbd-3b55-4c53-8c3d-49a8af4fb6ba3",
+          "image": "https://image.freepik.com/free-photo/blank-white-pants-lying-front-view_87790-222.jpg" ,
+          "name":"Pants",
+          "price":"485.00 EUR"
+       },
+       {
+          "id":"cc147251-6dd5-4dd4-85da-251648eada9e2",
+          "image": "https://image.freepik.com/free-psd/3d-bicycle-isolated_92267-228.jpg",
+          "name":"Bike",
+          "price":"268.00 EUR"
+       },
+       {
+          "id":"c9d31bbd-3b55-4c53-8c3d-49a8af4fb6ba1",
+          "image": "https://image.freepik.com/free-photo/red-luxury-sedan-road_114579-5079.jpg",
+          "name":"Car",
+          "price":"485.00 EUR"
+       },
+       {
+          "id":"cc147251-6dd5-4dd4-85da-251648eada9e4",
+          "image": "https://image.freepik.com/free-photo/place-flying-sunset-sky_1112-1132.jpg",
+          "name":"Plane",
+          "price":"268.00 EUR"
+       },
+       {
+          "id":"c9d31bbd-3b55-4c53-8c3d-49a8af4fb6ba5",
+          "image": "https://image.freepik.com/free-vector/boats_1308-6027.jpg",
+          "name":"Boat",
+          "price":"485.00 EUR"
+       },
+       {
+          "id":"cc147251-6dd5-4dd4-85da-251648eada9e6",
+          "image": "https://image.freepik.com/free-psd/white-polo-shirt-mockup-template-isolated-front-view_176382-1090.jpg",
+          "name":"Shirt",
+          "price":"268.00 EUR"
+       },
+       {
+          "id":"c9d31bbd-3b55-4c53-8c3d-49a8af4fb6ba7",
+          "image": "https://image.freepik.com/free-photo/closeup-shot-small-toy-car-wooden-train-track_181624-32510.jpg",
+          "name":"Train",
+          "price":"485.00 EUR"
+       },
+       {
+          "id":"cc147251-6dd5-4dd4-85da-251648eada9e8",
+          "image": "https://image.freepik.com/free-vector/skateboard_1284-11970.jpg",
+          "name":"Skateboard",
+          "price":"268.00 EUR"
+       }
+      ]
